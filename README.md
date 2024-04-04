@@ -25,8 +25,18 @@ Joe explanation and add
 
 ## Data Dictionary:
 <img width="660" alt="Screenshot 2024-04-04 at 3 17 42 AM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/ddbd3e9c-6b8c-4eff-ba60-e4186a80f75c">
+<img width="659" alt="Screenshot 2024-04-04 at 3 18 40 AM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/86764c21-3fcb-4586-a23c-5055d7a0d036">
+<img width="659" alt="Screenshot 2024-04-04 at 3 18 52 AM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/574cff80-4c85-4867-837a-4be543883ef6">
+<img width="633" alt="Screenshot 2024-04-04 at 3 19 11 AM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/c5ea0cb2-e4ef-4fd6-b79d-72ac76f45330">
+<img width="636" alt="Screenshot 2024-04-04 at 3 19 36 AM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/c0f088dd-6367-45e2-b436-d6209090e2ec">
+<img width="638" alt="Screenshot 2024-04-04 at 3 19 57 AM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/6ea41220-0432-4beb-a7be-eba65793cc5f">
+<img width="638" alt="Screenshot 2024-04-04 at 3 20 15 AM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/731bf290-6545-476e-9a98-b2307896c925">
+<img width="638" alt="Screenshot 2024-04-04 at 3 20 30 AM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/07714618-573f-418f-9c99-67eb4cfd6433">
+<img width="638" alt="Screenshot 2024-04-04 at 3 20 48 AM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/6ed977a2-e706-4c72-86d9-1e56b756f157">
+<img width="638" alt="Screenshot 2024-04-04 at 3 21 04 AM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/e452e101-43f5-4294-bb4a-be7e1512ff51">
+<img width="638" alt="Screenshot 2024-04-04 at 3 21 15 AM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/f3b1885f-8572-488a-9622-c53322f1f891">
+<img width="638" alt="Screenshot 2024-04-04 at 3 21 31 AM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/2bd36cf7-af27-4b30-b7eb-82a941e313a2">
 
-Need one for each table
 
 ## Queries:
 
