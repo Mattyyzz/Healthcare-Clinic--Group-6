@@ -36,3 +36,10 @@ Query 1 allows healthcare clinic managers to assess the demand for a specific tr
 
 Each of us required to display query with ss or results, and adding naturual explanation as well as why the query is important to managers. 
 
+Query 2: 
+
+This SQL query retrieves information about patients including their first name, last name, admission date, discharge date, and the calculated length of stay in days. It joins the `Patients` and `MedicalRecords` tables, calculates the length of stay using the `DATEDIFF` function, and filters the results to include only patients with a length of stay greater than 333 days. Finally, it orders the results by the length of stay in ascending order.
+
+![Query 2](https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/145718034/7979bae9-1491-4c4f-98f3-308a7c74c846)
+
+
