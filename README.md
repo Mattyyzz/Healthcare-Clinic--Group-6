@@ -11,7 +11,7 @@ Jordan Wheat [jordanwheat](https://github.com/jordanwheat)
 
 Joe Song
 
-Zoe Lee https://github.com/zoemkl
+Zoe Lee [zoemk1](https://github.com/zoemkl)
 
 Minjun Kim
 
