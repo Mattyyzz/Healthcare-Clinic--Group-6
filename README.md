@@ -27,7 +27,7 @@ Conversation with our hypothetical client using ChatGPT:
 
 ## Data Model:
 
-https://cdn.discordapp.com/attachments/725959997749592105/1225543888056614942/Image_of_DataModel_MIST4610_2.png?ex=662183b0&is=660f0eb0&hm=61175970c1ef2899f82b750feb4a0d8820a3db9026abf4e131824beb0fdef1e5&
+file:///C:/Users/17707/Downloads/Image%20of%20DataModel%20MIST4610%202.pdf
 
 For the hospital, we made a few assumptions in the chain of operations. 
 
