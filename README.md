@@ -26,5 +26,10 @@ Need one for each table
 
 ## Queries:
 
+Query 1:
+
+Query 1 retrieves information about patients, their medical records including diagnosis and treatment, billing details, and completion dates for payments. It filters the results to include only those where the total billing amount is greater than 4900 and the treatment involves surgery, and then sorts the results by the total billing amount in descending order.
+
+
 Each of us required to display query with ss or results, and adding naturual explanation as well as why the query is important to managers. 
 
