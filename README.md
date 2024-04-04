@@ -30,10 +30,15 @@ Conversation with our hypothetical client using ChatGPT:
 https://cdn.discordapp.com/attachments/725959997749592105/1225543888056614942/Image_of_DataModel_MIST4610_2.png?ex=662183b0&is=660f0eb0&hm=61175970c1ef2899f82b750feb4a0d8820a3db9026abf4e131824beb0fdef1e5&
 
 For the hospital, we made a few assumptions in the chain of operations. 
+
     > Every patient is assumed to have a unique healthcare with different individual plans for them
+    
         *IE Dentals, General Coverage, and Tertiary Care with unique coverages and different co-pay each
+        
     > We are focusing on the internal process of each department rather than a focus on the grand process contained within the hospital
+    
     > Shifts are always pre-determined 12 hour shifts with assignment done on a monthly basis
+    
     > Each medical record is always signed and traced from the department that preformed care on the patient
 
 
