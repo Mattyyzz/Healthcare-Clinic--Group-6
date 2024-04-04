@@ -1,4 +1,7 @@
 # Team 6 MIST 4610 Group Project 1
+## Team Name:
+
+21482 Group 6 
 
 ## Team Members:
 
