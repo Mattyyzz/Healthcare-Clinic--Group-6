@@ -2,7 +2,7 @@
 
 ## Team Members:
 
-Matthew Zimmerman 
+Matthew Zimmerman [Mattyyzz](https://github.com/Mattyyzz)
 
 Jordan Wheat
 
