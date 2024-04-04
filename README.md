@@ -46,6 +46,7 @@ Joe explanation and add
 
 ## Queries:
 
+## ****ADD QUERY TABLE HERE WITH OUR NAMES***
 Query 1:
 
 Query 1 retrieves information about patients, their medical records including diagnosis and treatment, billing details, and completion dates for payments. It filters the results to include only those where the total billing amount is greater than 4900 and the treatment involves radiation therapy, and then sorts the results by the total billing amount in descending order.
