@@ -27,6 +27,7 @@ Conversation with our hypothetical client using ChatGPT:
 
 ## Data Model:
 
+![image](https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/145718034/53bc8484-4b5e-4518-9bf5-86299304274b)
 
 
 For the hospital, we made a few assumptions in the chain of operations. 
