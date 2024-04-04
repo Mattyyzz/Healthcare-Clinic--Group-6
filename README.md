@@ -62,4 +62,5 @@ Query 3 displays the medical employee's first and last name, the shift date and 
 
 <img width="981" alt="Screen Shot 2024-04-04 at 1 36 54 PM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/163201760/34c49eb9-0714-42b8-a03f-a6bdac96db4f">
 
+
 This query is vital for the organization of the Healthcare Center and its employees. This ensures that each department has an adequate amount of staff at each shift date and time which can also make creating work schedules more efficient. In the case that someone doesn't show up for their shift, managers can easily check to see who isn't there and if they need someone to pick up the shift it could be changed in the system and updated to return the name of who is working instead and remove the other employee from that shift time. 
