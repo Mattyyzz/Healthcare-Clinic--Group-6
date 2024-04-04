@@ -30,6 +30,7 @@ Query 1:
 
 Query 1 retrieves information about patients, their medical records including diagnosis and treatment, billing details, and completion dates for payments. It filters the results to include only those where the total billing amount is greater than 4900 and the treatment involves surgery, and then sorts the results by the total billing amount in descending order.
 
+![Query 1](https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/145718034/6ccb6a95-9e56-424f-b541-c272f303498f)
 
 Each of us required to display query with ss or results, and adding naturual explanation as well as why the query is important to managers. 
 
