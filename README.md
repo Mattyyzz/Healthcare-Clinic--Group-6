@@ -55,3 +55,11 @@ This SQL query retrieves information about patients including their first name, 
 ![Query 2](https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/145718034/7979bae9-1491-4c4f-98f3-308a7c74c846)
 
 Query 2 provides healthcare clinic managers with insight into the length of stay for patients across different departments or clinics. By examining the patients with the longest stays, particularly those exceeding 333 days, managers can identify areas where patients may require extended care or where operational inefficiencies may be impacting patient throughput. Organizing the results in ascending order by length of stay allows managers to easily pinpoint clinics or departments with longer-than-average patient stays, enabling targeted interventions to improve patient flow and optimize resource allocation for better patient care delivery. This analysis empowers managers to make informed decisions to enhance operational efficiency and patient satisfaction within their healthcare facilities.
+
+Query 3:
+
+Query 3 displays the medical employee's first and last name, the shift date and time as well as the department name they will be working in. This is done by returning information from the MedicalEmployees table and then joining Shifts with the employee's staff ID. The Departments and Shifts tables are then joined to return the department name. The query is then ordered by shift date in ascending order.
+
+<img width="981" alt="Screen Shot 2024-04-04 at 1 36 54 PM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/163201760/34c49eb9-0714-42b8-a03f-a6bdac96db4f">
+
+This query is vital for the organization of the Healthcare Center and its employees. This ensures that each department has an adequate amount of staff at each shift date and time which can also make creating work schedules more efficient. In the case that someone doesn't show up for their shift, managers can easily check to see who isn't there and if they need someone to pick up the shift it could be changed in the system and updated to return the name of who is working instead and remove the other employee from that shift time. 
