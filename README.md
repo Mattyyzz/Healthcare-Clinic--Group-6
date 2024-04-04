@@ -4,5 +4,11 @@
 
 Matthew Zimmerman [Mattyyzz](https://github.com/Mattyyzz)
 
-Jordan Wheat
+Jordan Wheat 
+
+Joe Song
+
+Zoe Lee
+
+Minjun Kim
 
