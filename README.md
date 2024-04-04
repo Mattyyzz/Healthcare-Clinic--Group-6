@@ -2,5 +2,6 @@
 
 ## Team Members:
 
-Matthew Zimmerman
+Matthew Zimmerman 
+Jordan Wheat
 
