@@ -32,5 +32,9 @@ Query 1 retrieves information about patients, their medical records including di
 
 ![Query 1](https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/145718034/6ccb6a95-9e56-424f-b541-c272f303498f)
 
+Apologies for the misunderstanding. Here's an explanation tailored to your provided healthcare clinic query:
+
+Query 1 allows healthcare clinic managers to assess the demand for a specific treatment, in this case, radiation therapy, across their patient population. By analyzing which patients receive the highest total billing amount for radiation therapy, managers can identify clinics or departments that may require additional resources, support, or specialized personnel to accommodate the demand effectively. The query organizes the results in descending order based on the total billing amount for radiation therapy, making it straightforward for managers to prioritize clinics or departments with the highest utilization of this treatment modality. This prioritization enables managers to allocate resources strategically, ensuring that clinics offering radiation therapy have the necessary capacity and support to meet patient needs efficiently.
+
 Each of us required to display query with ss or results, and adding naturual explanation as well as why the query is important to managers. 
 
