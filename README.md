@@ -38,8 +38,8 @@ Each of us required to display query with ss or results, and adding naturual exp
 
 Query 2: 
 
-This SQL query retrieves information about patients including their first name, last name, admission date, discharge date, and the calculated length of stay in days. It joins the `Patients` and `MedicalRecords` tables, calculates the length of stay using the `DATEDIFF` function, and filters the results to include only patients with a length of stay greater than 333 days. Finally, it orders the results by the length of stay in ascending order.
+This SQL query retrieves information about patients including their first name, last name, admission date, discharge date, and the calculated length of stay in days. It joins the Patients and MedicalRecords tables, calculates the length of stay using the DATEDIFF function, and filters the results to include only patients with a length of stay greater than 333 days. Finally, it orders the results by the length of stay in ascending order.
 
 ![Query 2](https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/145718034/7979bae9-1491-4c4f-98f3-308a7c74c846)
 
-
+Query 2 provides healthcare clinic managers with insight into the length of stay for patients across different departments or clinics. By examining the patients with the longest stays, particularly those exceeding 333 days, managers can identify areas where patients may require extended care or where operational inefficiencies may be impacting patient throughput. Organizing the results in ascending order by length of stay allows managers to easily pinpoint clinics or departments with longer-than-average patient stays, enabling targeted interventions to improve patient flow and optimize resource allocation for better patient care delivery. This analysis empowers managers to make informed decisions to enhance operational efficiency and patient satisfaction within their healthcare facilities.
