@@ -7,7 +7,7 @@
 
 Matthew Zimmerman [Mattyyzz](https://github.com/Mattyyzz)
 
-Jordan Wheat https://github.com/jordanwheat/MIST-4610-Group-Project-1
+Jordan Wheat [jordanwheat](https://github.com/jordanwheat)
 
 Joe Song
 
