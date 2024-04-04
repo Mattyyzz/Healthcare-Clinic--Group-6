@@ -24,6 +24,7 @@ Our team spearheaded designing and implementation a comprehensive relational dat
 Joe explanation and add
 
 ## Data Dictionary:
+<img width="660" alt="Screenshot 2024-04-04 at 3 17 42 AM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/ddbd3e9c-6b8c-4eff-ba60-e4186a80f75c">
 
 Need one for each table
 
