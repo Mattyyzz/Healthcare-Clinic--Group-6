@@ -48,7 +48,8 @@ For this data model we made a few assumptions within the chain of command. Our p
 
 ## Queries:
 
-## ****ADD QUERY TABLE HERE WITH OUR NAMES***
+## <img width="685" alt="Screenshot 2024-04-04 at 9 48 58 PM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/231cb637-0510-43d7-8f6d-a0b3699f98be">
+
 
 **Query 1:**
 
