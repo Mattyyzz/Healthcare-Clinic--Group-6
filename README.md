@@ -9,7 +9,7 @@ Matthew Zimmerman [Mattyyzz](https://github.com/Mattyyzz)
 
 Jordan Wheat [jordanwheat](https://github.com/jordanwheat)
 
-Joe Song
+Joe Song [JTR213](https://github.com/JTR21)
 
 Zoe Lee [zoemk1](https://github.com/zoemkl)
 
