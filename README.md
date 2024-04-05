@@ -110,6 +110,7 @@ Query 7 focuses on clearly displaying the parties involved with each appointment
 ![image](https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/41f73e24-bb7d-4fe9-8d4c-8a981896994c)
 
 Query 8 is created as a procedure that calculates the number of on-shift specialties per shift. A manager would then be able to quickly pull information regarding scheduling and demand. By opening the query up as a procedure rather than a query, the information is able to be displayed independently without unneeded information. This creates a simple to use and simple to understand tool that can be used within a matter of seconds.
+
 **Query 9:**
 
 <img width="1028" alt="Screen Shot 2024-04-04 at 9 19 52 PM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/163201760/85462ed9-1e24-4acd-b0b9-ab3bf441ed7e">
