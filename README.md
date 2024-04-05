@@ -29,10 +29,7 @@ Conversation with our hypothetical client using ChatGPT:
 
 <img width="767" alt="Screenshot 2024-04-04 at 8 45 18 PM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/9cbead31-c33f-4d78-a030-86007755c9bc">
 
-
 For this data model we made a few assumptions within the chain of command. Our primary assumption is the formation of a top down structure with the healthcare center technically connecting to everything and everything else branching off the main center with a seperate party representing the patients. As such, we attempted to break down the center into recognizable but distinct chunks. As we approach the smaller and more specific parts of the data model, we focused on the specific interactions between the employees and patients. We distinguished 4 specific tables to introduce : MedicalRecords, CommunicationLogs, Appointments, Prescriptions. We chose these four tables because these tables cover the general basis of service between actual practices, communication between parties, assigned post care treatment, and a log showing the details of the patient. This leaves us with a clean and precise data model that is able to more accuractely and cleanly capture incoming data.
-
-
 
 ## Data Dictionary:
 
@@ -66,7 +63,6 @@ This SQL query retrieves information about patients including their first name, 
 
 ![Query 2](https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/145718034/7979bae9-1491-4c4f-98f3-308a7c74c846)
 
-
 Query 2 provides healthcare clinic managers with insight into the length of stay for patients across different departments or clinics. By examining the patients with the longest stays, particularly those exceeding 333 days, managers can identify areas where patients may require extended care or where operational inefficiencies may be impacting patient throughput. Organizing the results in ascending order by length of stay allows managers to easily pinpoint clinics or departments with longer-than-average patient stays, enabling targeted interventions to improve patient flow and optimize resource allocation for better patient care delivery. This analysis empowers managers to make informed decisions to enhance operational efficiency and patient satisfaction within their healthcare facilities.
 
 **Query 3:**
@@ -86,6 +82,7 @@ Query 4 displays item ID, item name, and the quantity as well as expiration date
 This query aids in managing inventory by returning information on quantity and expiration date. In this example 30 was used as a threshold so if the inventory count is below this for a certain item managers know that it's time to order more. This prevents inventory shortages and helps with keeping inventory stocked. Expiration date is very important to keep up with as well because items should not be used after their expiration date as it could lead to item malfunction which is a form of malpractice. By keeping up with expiration dates, items can be used before they expire or disposed of when they become expired. 
 
 **Query 5:**
+
 Query 5 displays name, city, state, and operating hours of the healthcare center. This information is taken from the HealthcareCenter table. The where clause then returns only the values of healthcare centers that are open for 24 hours.
 
 <img width="998" alt="Screenshot 2024-04-04 at 4 16 28 PM" src="https://github.com/jordanwheat/MIST-4610-Group-Project-1/assets/150203797/44d6140d-72f9-42ac-a879-a1c8cc61c016">
@@ -94,6 +91,7 @@ Query 5 displays name, city, state, and operating hours of the healthcare center
 Using this query, the healthcare company will be able to see where their 24 hour centers are located. This can help them understand where their client base is already being served and where they may need to start thinking about opening up a new 24 hour facility to better serve the community and increase their number of patients. 
 
 **Query 6:**
+
 This query displays the patient's first and last name as "Patient," the first and last name of the medical employee who prescribed the medication as "Prescribed By." and the name of the medication prescribed. It joins the Patients, MedicalEmployees, and Prescriptions table by PatientID and StaffID. It then filters the results by the patient names in alphabetical order.
 
 <img width="998" alt="Screenshot 2024-04-04 at 4 37 51 PM" src="https://github.com/jordanwheat/MIST-4610-Group-Project-1/assets/150203797/de8f9f62-8add-4090-a55a-e52da7f00324">
@@ -109,6 +107,7 @@ Query 7 displays the employee's name and patient's name associated with each app
 Query 7 focuses on clearly displaying the parties involved with each appointment. As such, the query is designed to display information efficiently and simply. The employee is designated with their full name through a concatenate string and their title residing in the next column for legibility. The patient is displayed with their full name with no other information displayed for simplicity purposes. Query 7 brings value to a manager by having a clear table displaying all appointments for quick use.
 
 **Query 8:**
+
 Query 8 is a procedure that takes a department ID as an input in order to display a count of each speciality assigned to that department. For this task, the following tables are joined together: Shifts, MedicalEmployees, and Departments. The count composes of each role within the department.
 
 ![image](https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/4ba09269-8738-42e6-a4f8-07e4fcb89b46)
@@ -117,6 +116,7 @@ Query 8 is a procedure that takes a department ID as an input in order to displa
 Query 8 is created as a procedure that calculates the number of on-shift specialties per department. A manager would then be able to quickly pull information regarding demand and assignment. By opening the query up as a procedure rather than a query, the information is able to be displayed independently without unneeded information. This creates a simple to use and simple to understand tool that can be used within a matter of seconds.
 
 **Query 9:**
+
 This query retrieves information about patients' first names and last names, alongside their prescription IDs and dosages from the respective tables. By joining the 'Patients' and 'Prescriptions' tables based on the shared PatientID column, it correlates patients with their prescribed medications. The resulting dataset provides a comprehensive overview of patients and their corresponding prescriptions, facilitating further analysis and healthcare management within the clinic or healthcare system.
 
 <img width="1028" alt="Screen Shot 2024-04-04 at 9 19 52 PM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/163201760/85462ed9-1e24-4acd-b0b9-ab3bf441ed7e">
