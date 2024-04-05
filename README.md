@@ -112,9 +112,11 @@ Query 7 focuses on clearly displaying the parties involved with each appointment
 Query 8 is created as a procedure that calculates the number of on-shift specialties per shift. A manager would then be able to quickly pull information regarding scheduling and demand. By opening the query up as a procedure rather than a query, the information is able to be displayed independently without unneeded information. This creates a simple to use and simple to understand tool that can be used within a matter of seconds.
 
 **Query 9:**
+This query retrieves information about patients' first names and last names, alongside their prescription IDs and dosages from the respective tables. By joining the 'Patients' and 'Prescriptions' tables based on the shared PatientID column, it correlates patients with their prescribed medications. The resulting dataset provides a comprehensive overview of patients and their corresponding prescriptions, facilitating further analysis and healthcare management within the clinic or healthcare system.
 
 <img width="1028" alt="Screen Shot 2024-04-04 at 9 19 52 PM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/163201760/85462ed9-1e24-4acd-b0b9-ab3bf441ed7e">
 
+Query 9 allows healthcare clinic managers to access a comprehensive view of patients' prescription information. By correlating patient identities with their respective prescribed medications, managers can analyze prescription details such as medication dosages and prescription IDs. This holistic understanding aids in optimizing medication management strategies, ensuring patients receive appropriate treatments while also supporting effective resource allocation within the clinic. This query equips healthcare clinic managers with the necessary insights to track and monitor patients' medication regimens effectively, enabling them to ensure medication adherence, minimize adverse drug interactions, and enhance overall patient safety and care outcomes in their management.
 
 **Query 10:**
 
