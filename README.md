@@ -30,7 +30,7 @@ Conversation with our hypothetical client using ChatGPT:
 <img width="767" alt="Screenshot 2024-04-04 at 8 45 18 PM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/9cbead31-c33f-4d78-a030-86007755c9bc">
 
 
-For this data model we made a few assumptions within the chain of command. Our primary assumption is the formation of a top down structure with the healthcare center technically connecting to everything and everything else branching off the main center with a seperate party representing the patients. As such, we attempted to break down the center into recognizable but distinct chunks. As we approach the smaller and more specific parts of the data model, we focused on the specific interactions between the employees and patients. We distinguished 4 specific tables to introduce : MedicalRecords, CommunicationLogs, Appointments, Prescriptions. We chose these four tables because these tables cover the general basis of service between actual practices, communication between parties, assigned post care treatment, and a log showing the details of the patient. This leaves uf with a clean and precise data model that is able to more accuractely and cleanly capture incoming data.
+For this data model we made a few assumptions within the chain of command. Our primary assumption is the formation of a top down structure with the healthcare center technically connecting to everything and everything else branching off the main center with a seperate party representing the patients. As such, we attempted to break down the center into recognizable but distinct chunks. As we approach the smaller and more specific parts of the data model, we focused on the specific interactions between the employees and patients. We distinguished 4 specific tables to introduce : MedicalRecords, CommunicationLogs, Appointments, Prescriptions. We chose these four tables because these tables cover the general basis of service between actual practices, communication between parties, assigned post care treatment, and a log showing the details of the patient. This leaves us with a clean and precise data model that is able to more accuractely and cleanly capture incoming data.
 
 
 
@@ -111,6 +111,9 @@ Query 7 focuses on clearly displaying the parties involved with each appointment
 
 Query 8 is created as a procedure that calculates the number of on-shift specialties per shift. A manager would then be able to quickly pull information regarding scheduling and demand. By opening the query up as a procedure rather than a query, the information is able to be displayed independently without unneeded information. This creates a simple to use and simple to understand tool that can be used within a matter of seconds.
 **Query 9:**
+
+<img width="1028" alt="Screen Shot 2024-04-04 at 9 19 52 PM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/163201760/85462ed9-1e24-4acd-b0b9-ab3bf441ed7e">
+
 
 **Query 10:**
 
