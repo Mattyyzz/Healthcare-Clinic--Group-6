@@ -101,15 +101,20 @@ This query displays the patient's first and last name as "Patient," the first an
 Using this query, the healthcare center will be able to track the medications given to their patients as well as the medical providers who prescribed the medication. The healthcare can also quickly see if a patient has been prescribed multiple medications as they view the result and find the patient name. This can help them keep track of a patient's prescription history.
 
 **Query 7:**
+
+Query 7 displays the employee's name and patient's name associated with each appointment. In order to preform this the following tables are joined together: Appointsments, MedicalEmployees, and Patients. It is set to filter by an ascending order of appointment ID to create a structured list.
+
 ![image](https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/00e8dd6d-4de6-4e38-b32c-309a74ecaed4)
 
 Query 7 focuses on clearly displaying the parties involved with each appointment. As such, the query is designed to display information efficiently and simply. The employee is designated with their full name through a concatenate string and their title residing in the next column for legibility. The patient is displayed with their full name with no other information displayed for simplicity purposes. Query 7 brings value to a manager by having a clear table displaying all appointments for quick use.
 
 **Query 8:**
+Query 8 is a procedure that takes a department ID as an input in order to display a count of each speciality assigned to that department. For this task, the following tables are joined together: Shifts, MedicalEmployees, and Departments. The count composes of each role within the department.
+
 ![image](https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/4ba09269-8738-42e6-a4f8-07e4fcb89b46)
 ![image](https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/41f73e24-bb7d-4fe9-8d4c-8a981896994c)
 
-Query 8 is created as a procedure that calculates the number of on-shift specialties per shift. A manager would then be able to quickly pull information regarding scheduling and demand. By opening the query up as a procedure rather than a query, the information is able to be displayed independently without unneeded information. This creates a simple to use and simple to understand tool that can be used within a matter of seconds.
+Query 8 is created as a procedure that calculates the number of on-shift specialties per department. A manager would then be able to quickly pull information regarding demand and assignment. By opening the query up as a procedure rather than a query, the information is able to be displayed independently without unneeded information. This creates a simple to use and simple to understand tool that can be used within a matter of seconds.
 
 **Query 9:**
 
