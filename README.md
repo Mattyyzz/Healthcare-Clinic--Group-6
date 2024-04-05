@@ -49,6 +49,7 @@ For this data model we made a few assumptions within the chain of command. Our p
 ## Queries:
 
 ## ****ADD QUERY TABLE HERE WITH OUR NAMES***
+
 **Query 1:**
 
 Query 1 retrieves information about patients, their medical records including diagnosis and treatment, billing details, and completion dates for payments. It filters the results to include only those where the total billing amount is greater than 4900 and the treatment involves radiation therapy, and then sorts the results by the total billing amount in descending order.
@@ -56,6 +57,7 @@ Query 1 retrieves information about patients, their medical records including di
 ![Query 1](https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/145718034/6ccb6a95-9e56-424f-b541-c272f303498f)
 
 Query 1 allows healthcare clinic managers to assess the demand for a specific treatment, in this case, radiation therapy, across their patient population. By analyzing which patients receive the highest total billing amount for radiation therapy, managers can identify clinics or departments that may require additional resources, support, or specialized personnel to accommodate the demand effectively. The query organizes the results in descending order based on the total billing amount for radiation therapy, making it straightforward for managers to prioritize clinics or departments with the highest utilization of this treatment modality. This prioritization enables managers to allocate resources strategically, ensuring that clinics offering radiation therapy have the necessary capacity and support to meet patient needs efficiently.
+
 
 **Query 2:**
 
@@ -65,6 +67,7 @@ This SQL query retrieves information about patients including their first name, 
 
 Query 2 provides healthcare clinic managers with insight into the length of stay for patients across different departments or clinics. By examining the patients with the longest stays, particularly those exceeding 333 days, managers can identify areas where patients may require extended care or where operational inefficiencies may be impacting patient throughput. Organizing the results in ascending order by length of stay allows managers to easily pinpoint clinics or departments with longer-than-average patient stays, enabling targeted interventions to improve patient flow and optimize resource allocation for better patient care delivery. This analysis empowers managers to make informed decisions to enhance operational efficiency and patient satisfaction within their healthcare facilities.
 
+
 **Query 3:**
 
 Query 3 displays the medical employee's first and last name, the shift date and time as well as the department name they will be working in. This is done by returning information from the MedicalEmployees table and then joining Shifts with the employee's staff ID. The Departments and Shifts tables are then joined to return the department name. The query is then ordered by shift date in ascending order.
@@ -73,6 +76,7 @@ Query 3 displays the medical employee's first and last name, the shift date and 
 
 This query is vital for the organization of the Healthcare Center and its employees. This ensures that each department has an adequate amount of staff at each shift date and time which can also make creating work schedules more efficient. In the case that someone doesn't show up for their shift, managers can easily check to see who isn't there and if they need someone to pick up the shift it could be changed in the system and updated to return the name of who is working instead and remove the other employee from that shift time. 
 
+
 **Query 4:**
 
 Query 4 displays item ID, item name, and the quantity as well as expiration date. These values are selected from the Inventory table. A where clause is then used to return the values only if the quantity is less than 30. The results are then ordered by expiration date in ascending order. 
@@ -80,6 +84,7 @@ Query 4 displays item ID, item name, and the quantity as well as expiration date
 <img width="850" alt="Screen Shot 2024-04-04 at 2 29 53 PM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/163201760/ccf99668-1b1f-4b4b-aa8d-9a7a675a44b8">
 
 This query aids in managing inventory by returning information on quantity and expiration date. In this example 30 was used as a threshold so if the inventory count is below this for a certain item managers know that it's time to order more. This prevents inventory shortages and helps with keeping inventory stocked. Expiration date is very important to keep up with as well because items should not be used after their expiration date as it could lead to item malfunction which is a form of malpractice. By keeping up with expiration dates, items can be used before they expire or disposed of when they become expired. 
+
 
 **Query 5:**
 
@@ -90,6 +95,7 @@ Query 5 displays name, city, state, and operating hours of the healthcare center
 
 Using this query, the healthcare company will be able to see where their 24 hour centers are located. This can help them understand where their client base is already being served and where they may need to start thinking about opening up a new 24 hour facility to better serve the community and increase their number of patients. 
 
+
 **Query 6:**
 
 This query displays the patient's first and last name as "Patient," the first and last name of the medical employee who prescribed the medication as "Prescribed By." and the name of the medication prescribed. It joins the Patients, MedicalEmployees, and Prescriptions table by PatientID and StaffID. It then filters the results by the patient names in alphabetical order.
@@ -98,6 +104,7 @@ This query displays the patient's first and last name as "Patient," the first an
 
 Using this query, the healthcare center will be able to track the medications given to their patients as well as the medical providers who prescribed the medication. The healthcare can also quickly see if a patient has been prescribed multiple medications as they view the result and find the patient name. This can help them keep track of a patient's prescription history.
 
+
 **Query 7:**
 
 Query 7 displays the employee's name and patient's name associated with each appointment. In order to preform this the following tables are joined together: Appointsments, MedicalEmployees, and Patients. It is set to filter by an ascending order of appointment ID to create a structured list.
@@ -105,6 +112,7 @@ Query 7 displays the employee's name and patient's name associated with each app
 ![image](https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/00e8dd6d-4de6-4e38-b32c-309a74ecaed4)
 
 Query 7 focuses on clearly displaying the parties involved with each appointment. As such, the query is designed to display information efficiently and simply. The employee is designated with their full name through a concatenate string and their title residing in the next column for legibility. The patient is displayed with their full name with no other information displayed for simplicity purposes. Query 7 brings value to a manager by having a clear table displaying all appointments for quick use.
+
 
 **Query 8:**
 
@@ -115,6 +123,7 @@ Query 8 is a procedure that takes a department ID as an input in order to displa
 
 Query 8 is created as a procedure that calculates the number of on-shift specialties per department. A manager would then be able to quickly pull information regarding demand and assignment. By opening the query up as a procedure rather than a query, the information is able to be displayed independently without unneeded information. This creates a simple to use and simple to understand tool that can be used within a matter of seconds.
 
+
 **Query 9:**
 
 This query retrieves information about patients' first names and last names, alongside their prescription IDs and dosages from the respective tables. By joining the 'Patients' and 'Prescriptions' tables based on the shared PatientID column, it correlates patients with their prescribed medications. The resulting dataset provides a comprehensive overview of patients and their corresponding prescriptions, facilitating further analysis and healthcare management within the clinic or healthcare system.
@@ -122,6 +131,7 @@ This query retrieves information about patients' first names and last names, alo
 <img width="1028" alt="Screen Shot 2024-04-04 at 9 19 52 PM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/163201760/85462ed9-1e24-4acd-b0b9-ab3bf441ed7e">
 
 Query 9 gives managers access to a comprehensive view of patients' prescription information. By correlating patient identities with their respective prescribed medications, managers can analyze prescription details such as medication dosages and prescription IDs. This holistic understanding aids in optimizing medication management strategies, ensuring patients receive appropriate treatments while also supporting effective resource allocation within the clinic. This query equips healthcare clinic managers with the necessary insights to track and monitor patients' medication regimens effectively, enabling them to ensure medication adherence, minimize adverse drug interactions, and enhance overall patient safety and care outcomes in their management.
+
 
 **Query 10:**
 
