@@ -27,7 +27,8 @@ Conversation with our hypothetical client using ChatGPT:
 
 ## Data Model:
 
-<img width="907" alt="Screenshot 2024-04-04 at 8 27 04 PM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/61777df5-c3d8-4ff7-811b-ab36a4a3dece">
+<img width="767" alt="Screenshot 2024-04-04 at 8 45 18 PM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/9cbead31-c33f-4d78-a030-86007755c9bc">
+
 
 For the hospital, we made a few assumptions in the chain of operations. 
 
