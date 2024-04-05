@@ -109,6 +109,9 @@ Using this query, the healthcare center will be able to track the medications gi
 
 **Query 9:**
 
+<img width="1028" alt="Screen Shot 2024-04-04 at 9 19 52 PM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/163201760/85462ed9-1e24-4acd-b0b9-ab3bf441ed7e">
+
+
 **Query 10:**
 
 ## Database Information:
