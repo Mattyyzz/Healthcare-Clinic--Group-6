@@ -135,5 +135,8 @@ Query 9 gives managers access to a comprehensive view of patients' prescription 
 
 **Query 10:**
 
+<img width="981" alt="Screen Shot 2024-04-04 at 9 43 05 PM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/163201760/7deb7418-3c78-4e7f-9f58-041ff5572e87">
+
+
 ## Database Information:
 Database Name: al_Group_21482_G6
