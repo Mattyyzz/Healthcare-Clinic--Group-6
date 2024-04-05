@@ -120,3 +120,5 @@ Using this query, the healthcare center will be able to track the medications gi
 
 **Query 10:**
 
+## Database Information:
+Database Name: al_Group_21482_G6
