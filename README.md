@@ -136,7 +136,12 @@ Query 9 gives managers access to a comprehensive view of patients' prescription 
 
 **Query 10:**
 
+Query 10 uses the Patients and MedicalRecords tables to join the information and return patient first and last name, and patient ID along with their corresponding medical records such as admission and discharge date. This information is then put in ascending order by admission date.
+
+
 <img width="981" alt="Screen Shot 2024-04-04 at 9 43 05 PM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/163201760/7deb7418-3c78-4e7f-9f58-041ff5572e87">
+
+This query would be important to a manager to keep up with patient monitoring. By tracking admission and discharge dates it allows for patient flow in and out of the facility to be tracked. This ensures patients are receiving efficient and timely care. This also assists with resource tracking and planning based on surges in patient admission dates which can be tracked to allow for better preparation.
 
 
 ## Database Information:
