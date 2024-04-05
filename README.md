@@ -50,7 +50,7 @@ For the hospital, we made a few assumptions in the chain of operations.
 <img width="668" alt="Screenshot 2024-04-04 at 8 32 41 PM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/0c21c620-bf4f-4c62-9c33-533735e41d58">
 <img width="659" alt="Screenshot 2024-04-04 at 4 29 12 AM" src="https://github.com/jordanwheat/MIST-4610-Group-Project-1/assets/150203797/99215e37-3aa5-464b-a7da-5838de5a7b59">
 <img width="647" alt="Screenshot 2024-04-04 at 4 29 30 AM" src="https://github.com/jordanwheat/MIST-4610-Group-Project-1/assets/150203797/039f4ef7-971f-44cb-b5d8-f440f9dbfe24">
-<img width="647" alt="Screenshot 2024-04-04 at 4 29 42 AM" src="https://github.com/jordanwheat/MIST-4610-Group-Project-1/assets/150203797/457b84b0-41b7-4e8b-9641-65d66d3d2ca2">
+<img width="667" alt="Screenshot 2024-04-04 at 8 35 02 PM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/2a6b7542-87cd-43de-ba32-49039137e8b3">
 <img width="647" alt="Screenshot 2024-04-04 at 4 29 58 AM" src="https://github.com/jordanwheat/MIST-4610-Group-Project-1/assets/150203797/51070885-e434-4a44-aeb4-3f4b753dda33">
 <img width="647" alt="Screenshot 2024-04-04 at 4 30 12 AM" src="https://github.com/jordanwheat/MIST-4610-Group-Project-1/assets/150203797/1c19ac80-ad90-4add-b880-29f068e42f91">
 <img width="647" alt="Screenshot 2024-04-04 at 4 30 28 AM" src="https://github.com/jordanwheat/MIST-4610-Group-Project-1/assets/150203797/6e4e6d2f-1757-471d-a2d7-956a72a15460">
