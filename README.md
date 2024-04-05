@@ -113,6 +113,7 @@ Using this query, the healthcare center will be able to track the medications gi
 ![image](https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/00e8dd6d-4de6-4e38-b32c-309a74ecaed4)
 
 **Query 8:**
+![image](https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/4ba09269-8738-42e6-a4f8-07e4fcb89b46)
 ![image](https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/41f73e24-bb7d-4fe9-8d4c-8a981896994c)
 
 **Query 9:**
