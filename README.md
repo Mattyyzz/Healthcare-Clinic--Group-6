@@ -103,10 +103,13 @@ Using this query, the healthcare center will be able to track the medications gi
 **Query 7:**
 ![image](https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/00e8dd6d-4de6-4e38-b32c-309a74ecaed4)
 
+Query 7 focuses on clearly displaying the parties involved with each appointment. As such, the query is designed to display information efficiently and simply. The employee is designated with their full name through a concatenate string and their title residing in the next column for legibility. The patient is displayed with their full name with no other information displayed for simplicity purposes. Query 7 brings value to a manager by having a clear table displaying all appointments for quick use.
+
 **Query 8:**
 ![image](https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/4ba09269-8738-42e6-a4f8-07e4fcb89b46)
 ![image](https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/41f73e24-bb7d-4fe9-8d4c-8a981896994c)
 
+Query 8 is created as a procedure that calculates the number of on-shift specialties per shift. A manager would then be able to quickly pull information regarding scheduling and demand. By opening the query up as a procedure rather than a query, the information is able to be displayed independently without unneeded information. This creates a simple to use and simple to understand tool that can be used within a matter of seconds.
 **Query 9:**
 
 **Query 10:**
