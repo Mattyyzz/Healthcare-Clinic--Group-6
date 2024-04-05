@@ -110,8 +110,10 @@ This query displays the patient's first and last name as "Patient," the first an
 Using this query, the healthcare center will be able to track the medications given to their patients as well as the medical providers who prescribed the medication. The healthcare can also quickly see if a patient has been prescribed multiple medications as they view the result and find the patient name. This can help them keep track of a patient's prescription history.
 
 **Query 7:**
+![image](https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/00e8dd6d-4de6-4e38-b32c-309a74ecaed4)
 
 **Query 8:**
+![image](https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/41f73e24-bb7d-4fe9-8d4c-8a981896994c)
 
 **Query 9:**
 
