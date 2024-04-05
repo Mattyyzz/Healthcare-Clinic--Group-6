@@ -30,17 +30,8 @@ Conversation with our hypothetical client using ChatGPT:
 <img width="767" alt="Screenshot 2024-04-04 at 8 45 18 PM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/9cbead31-c33f-4d78-a030-86007755c9bc">
 
 
-For the hospital, we made a few assumptions in the chain of operations. 
+For this data model we made a few assumption within the chain of command. Our primary assumption is a top down structure with the healthcare center technically connecting to everything and everything else branching off the main center and a seperate party representing the patients. As such, we attempted to break down the center into recognizable but distinct chunks. As we approach the smaller and more specific parts of the data model, we focused on the specific interactions between the employees and patients. We distinguished 4 specific tables to introduce : MedicalRecords, CommunicationLogs, Appointments, Prescriptions. We chose these four tables because these tables cover the general basis of service between actual practices, communication between parties, assigned post care treatment, and a log showing the details of the patient.
 
-    > Every patient is assumed to have a unique healthcare with different individual plans for them
-    
-        *IE Dentals, General Coverage, and Tertiary Care with unique coverages and different co-pay each
-        
-    > We are focusing on the internal process of each department rather than a focus on the grand process contained within the hospital
-    
-    > Shifts are always pre-determined 12 hour shifts with assignment done on a monthly basis
-    
-    > Each medical record is always signed and traced from the department that preformed care on the patient
 
 
 ## Data Dictionary:
